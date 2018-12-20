@@ -3,5 +3,5 @@
 namespace App;
 
 interface CalculadoraImposto {
-    public function calculadoraSalarioComImposto(Functionario $funcionario);
+    public function calculadoraSalarioComImposto(Funcionario $funcionario);
 }
