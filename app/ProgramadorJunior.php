@@ -1,5 +1,7 @@
 <?php 
 
+namespace App;
+
 class ProgramadorJunior extends Funcionario
 {
     public function getSalarioBase()
